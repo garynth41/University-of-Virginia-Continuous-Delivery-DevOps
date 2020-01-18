@@ -14,3 +14,8 @@ After completing this course, you will be able to:
 4. Explain the key jobs of system operations and how today’s leading techniques and tools apply to them 
 5. Explain how high-functioning teams use DevOps  and related methods to reach a continuous delivery capability  
 6. Facilitate prioritized, iterative team progress on improving a delivery pipeline
+
+
+Taught by:  
+- Alex Cowan, Faculty & Batten Fellow
+- Darden School of Business
